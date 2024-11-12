@@ -1,5 +1,11 @@
 # livekit-plugins-openai
 
+## 0.10.6
+
+### Patch Changes
+
+- Expose usage metrics for Realtime model - [#1036](https://github.com/livekit/agents/pull/1036) ([@yuyuma](https://github.com/yuyuma))
+
 ## 0.10.5
 
 ### Patch Changes
